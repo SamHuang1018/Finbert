@@ -1,4 +1,4 @@
-## Getting started with Numerai Signals: Sentiment Analysis using Stock News API and FinBERT 
+# Getting started with Numerai Signals: Sentiment Analysis using Stock News API and FinBERT 
 
 I used only the FinBERT Inference to sentiment analysis.
 
